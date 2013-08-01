@@ -252,10 +252,9 @@
     border-radius: 2px;
     */
 
-    text-decoration: underline;
-
     cursor: pointer;
     pointer-events: auto;
+    text-decoration: underline;
 }
 
 .ace_dark .ace_fold {
@@ -269,8 +268,6 @@
     background-repeat: no-repeat, repeat-x;
     background-position: center center, top left;
     */
-
-    color: orange;
 }
 
 
